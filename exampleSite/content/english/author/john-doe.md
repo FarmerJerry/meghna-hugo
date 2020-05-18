@@ -1,16 +1,15 @@
 ---
-title: John Doe
-published: false
+title: Jeremy Shantz
 image: ''
-email: email2@example.org
+email: jeremy@farm6.net
 social:
 - icon: ti-facebook
-  link: "#"
+  link: "#https://www.facebook.com/Farm6media"
 - icon: ti-twitter-alt
   link: "#"
 - icon: ti-github
   link: "#"
----
+published: false
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+---
+Jeremy Shantz runs the Farm 6 Media Facebook page, come and say hello!
