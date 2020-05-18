@@ -9,6 +9,6 @@ social:
   link: "#"
 - icon: ti-github
   link: "#"
-
 ---
+
 Jeremy Shantz runs the Farm 6 Media Facebook page, come and say hello!
