@@ -1,12 +1,11 @@
-name = "Meghna Hugo"
+description = "Farm 6 Media is a web development company."
+features = ["bootstrap", "responsive"]
+homepage = "https://gethugothemes.com/products/meghna-hugo-theme/"
 license = "CC BY 3.0"
 licenselink = "https://creativecommons.org/licenses/by/3.0/"
-description = "Hugo port of the Themefisher’s Meghna Template"
-homepage = "https://gethugothemes.com/products/meghna-hugo-theme/"
-tags = ['landing-page', 'google-analytics', 'fast', 'modern', 'minimal', 'minimalistic', 'business', 'agency-template', 'themefisher', 'hugo-theme', 'hugo-templates', 'bootstrap', 'blog', 'responsive', 'portfolio', 'single-page', 'dark', 'clean', 'simple', 'company', 'creative', 'contact-form', 'custom-themes', 'mobile']
-features = ['bootstrap','responsive']
 min_version = "0.58.0"
-
+name = "Farm 6 Media"
+tags = ["landing-page", "google-analytics", "fast", "modern", "minimal", "minimalistic", "business", "agency-template", "themefisher", "hugo-theme", "hugo-templates", "bootstrap", "blog", "responsive", "portfolio", "single-page", "dark", "clean", "simple", "company", "creative", "contact-form", "custom-themes", "mobile"]
 [author]
-  name = "Themefisher"
-  homepage = "https://themefisher.com/"
+homepage = "https://farm6media.com"
+name = "Farm 6 Media"
