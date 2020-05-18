@@ -1,6 +1,6 @@
 ---
 title: Jeremy Shantz
-image: ''
+image: "/uploads/jeremysvoiceovers.jpg"
 email: jeremy@farm6.net
 social:
 - icon: ti-facebook
@@ -9,6 +9,6 @@ social:
   link: "#"
 - icon: ti-github
   link: "#"
----
 
+---
 Jeremy Shantz runs the Farm 6 Media Facebook page, come and say hello!
