@@ -1,5 +1,6 @@
 ---
 title: Jeremy Shantz
+published: false
 image: ''
 email: jeremy@farm6.net
 social:
@@ -9,7 +10,6 @@ social:
   link: "#"
 - icon: ti-github
   link: "#"
-published: false
-
 ---
+
 Jeremy Shantz runs the Farm 6 Media Facebook page, come and say hello!
